@@ -1,0 +1,49 @@
+Enter the type of the first dessert : CHOCOLATE CAKE
+Enter the type of the second dessert : LEMON MERINGUE PIE
+Enter the type of the third dessert : RAINBOW MACARON SET
+Enter the type of the fourth dessert : STRAWBERRY PUDDING
+Enter the type of the fifth dessert : RASPBERRY PUFF
+Enter the price of the CHOCOLATE CAKE : RM299
+Enter the cost of ingredients of the CHOCOLATE CAKE : RM230
+Enter the price of the LEMON MERINGUE PIE : RM56
+Enter the cost of ingredients of the LEMON MERINGUE PIE : RM34
+Enter the price of the RAINBOW MACARON SET : RM45.5
+Enter the cost of ingredients of the RAINBOW MACARON SET : RM36
+Enter the price of the STRAWBERRY PUDDING : RM7
+Enter the cost of ingredients of the STRAWBERRY PUDDING : RM4
+Enter the price of the RASPBERRY PUFF : RM9
+Enter the cost of ingredients of the RASPBERRY PUFF : RM6.5
+Enter the quantity of the CHOCOLATE CAKE sold : 98
+Enter the quantity of the LEMON MERINGUE PIE sold : 75
+Enter the quantity of the RAINBOW MACARON SET sold : 130
+Enter the quantity of the STRAWBERRY PUDDING sold : 165
+Enter the quantity of the RASPBERRY PUFF sold : 134
+Enter the number of employees : 2
+Enter the employee salary : RM1500
+Enter the rent payment per month : RM850
+Enter the utilities fee for this month : RM650.5
+Enter the transport fee for this month : RM400
+
+	***************************************************************************************************
+	* TYPE OF DESSERTS SELL *  PRICE         *  QUANTITY SOLD *  COST OF INGREDIENT   *  GROSS PROFIT *
+	***************************************************************************************************
+	* CHOCOLATE CAKE 	*  RM299.0	 *  98		  *  RM230.0		  *  RM69.0	  *
+	* LEMON MERINGUE PIE 	*  RM56.0	 *  75		  *  RM34.0		  *  RM22.0	  *
+	* RAINBOW MACARON SET 	*  RM45.5	 *  130		  *  RM36.0		  *  RM9.5	  *
+	* STRAWBERRY PUDDING 	*  RM7.0	 *  165		  *  RM4.0		  *  RM3.0	  *
+	* RASPBERRY PUFF 	*  RM9.0	 *  134		  *  RM6.5		  *  RM2.5	  *
+	***************************************************************************************************
+	 TOTAL SALES    	   = RM41778.0
+	 TOTAL COST OF INGREDIENTS = RM31301.0
+	______________________________________________
+	 TOTAL GROSS PROFIT 	   = RM10477.0
+	----------------------------------------------
+	 EMPLOYEE SALARY= RM3000.0
+	 RENT PAYMENT 	= RM850.0
+	 UTILITIES FEE 	= RM650.5
+	 TRANSPORT FEE 	= RM400.0
+	______________________________________________
+	 TOTAL COST 	= RM4900.5
+	______________________________________________
+	 NET INCOME 	= RM5576.5
+	***************************************************************************************************
